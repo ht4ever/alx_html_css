@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Ensure the body is a flex container with column direction */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Ensure the main is a flex container with row direction */
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+/* Ensure the article takes 2/3 of the width and aside takes 1/3 */
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+/* Basic styling for header and footer */
+header, footer {
+    background: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Optional: Basic styling for main, article, and aside */
+main {
+    background: #e0e0e0;
+}
+
+article, aside {
+    padding: 10px;
+}
