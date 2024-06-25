@@ -64,7 +64,7 @@ header a {
     color: rgba(0, 0, 0, 0.8);
 }
 aside {
-    background: #FAFAFA;
+    background: #75f073;
 }
 aside p {
     border: 1px solid #bbb;
@@ -181,6 +181,9 @@ h6 {
     header .right {
         float: none;
     }
+    article a > img{
+        width:250px
+    }
 }
 
 /* Flexbox layout adjustments */
@@ -210,8 +213,8 @@ aside {
     overflow-y: auto;
 }
 
-header, footer {
-    background: #4CAF50;
+header{ 
+    background: #8f8f9c;
     color: white;
     text-align: center;
 }
