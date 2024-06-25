@@ -68,7 +68,7 @@ aside {
 }
 aside p {
     border: 1px solid #bbb;
-    background: #ddd;
+    background: #f7f1f1;
     color: black;
 }
 footer a {
@@ -102,8 +102,10 @@ header .right {
 
 /* Header */
 header {
-    padding: 20px 0;
+    padding: 20px 15px;
     height: 80px;
+    background: #8f8f9c;
+    color: white;
 }
 header ul {
     list-style: none;
@@ -137,6 +139,9 @@ aside p {
 footer {
     padding: 5px 15px;
     height: 80px;
+    background: #333;
+    color: #fff;
+    padding: 15px;
 }
 
 /* Text styles and margins */
@@ -149,7 +154,7 @@ h1 {
 }
 h2 {
     font-size: 32px;
-    margin: 30px 0 15px;
+    margin: 0 0 30px;
 }
 h3 {
     font-size: 28px;
@@ -213,11 +218,7 @@ aside {
     overflow-y: auto;
 }
 
-header{ 
-    background: #8f8f9c;
-    color: white;
-    text-align: center;
-}
+
 
 .logo {
     font-size: 36px;
@@ -240,9 +241,3 @@ h1, h2 {
     color: #333;
 }
 
-footer {
-    background: #333;
-    color: #fff;
-    padding: 15px;
-    text-align: center;
-}
