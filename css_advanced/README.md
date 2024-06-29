@@ -5,6 +5,7 @@ This project is a continuation of the HTML Advanced project, focusing on applyin
 
 # Project Overview<br><br>
 ![Project](images/project.jpg)
+<br><br>
 Project Name: CSS Advanced<br>Language: HTML, CSS<br>Concept: Styling a webpage for a fictional online learning platform.
 # Requirements<br><br>
 
@@ -19,6 +20,6 @@ All files should end with a new line<br>The code should be W3C compliant and val
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HT4EVER&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HT4EVER&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 👋 Random Dev Meme
+### 👋 Thank you! Hicham touati
 ![logo](images/logo.png)
 
