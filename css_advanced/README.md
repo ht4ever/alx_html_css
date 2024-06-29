@@ -1,10 +1,11 @@
 # CSS Advanced 
 
 # 💫 About:
-This project is a continuation of the HTML Advanced project, focusing on applying CSS to style the webpage. The goal is to create a visually appealing and responsive design for the existing HTML structure.<br><br>
+This project is a continuation of the HTML Advanced project, focusing on applying CSS to style the webpage. The goal is to create a visually appealing and responsive design for the existing HTML structure.
+
 # Project Overview<br><br>
-![Project](background.png)
-Project Name: CSS Advanced<br>Language: HTML, CSS<br>Concept: Styling a webpage for a fictional online learning platform<br><br>
+![Project](images/background.png)
+Project Name: CSS Advanced<br>Language: HTML, CSS<br>Concept: Styling a webpage for a fictional online learning platform.
 # Requirements<br><br>
 
 All files should end with a new line<br>The code should be W3C compliant and validate with W3C-Validator<br>No external libraries are allowed (No NodeJS, React, VueJS, Bootstrap, etc.)<br>Only HTML and CSS can be used<br>
