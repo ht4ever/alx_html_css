@@ -4,7 +4,7 @@
 This project is a continuation of the HTML Advanced project, focusing on applying CSS to style the webpage. The goal is to create a visually appealing and responsive design for the existing HTML structure.
 
 # Project Overview<br><br>
-![Project](images/background.png)
+![Project](images/project.jpg)
 Project Name: CSS Advanced<br>Language: HTML, CSS<br>Concept: Styling a webpage for a fictional online learning platform.
 # Requirements<br><br>
 
